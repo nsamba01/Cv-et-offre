@@ -1,0 +1,315 @@
+{
+  "nodes": [
+    {
+      "id": "DG",
+      "label": "Directeur Executif",
+      "x": 419,
+      "y": 99,
+      "w": 352,
+      "h": 72
+    },
+    {
+      "id": "IT",
+      "label": "IT",
+      "x": 145,
+      "y": 195,
+      "w": 310,
+      "h": 44
+    },
+    {
+      "id": "SEC",
+      "label": "Secretariat de Direction",
+      "x": 735,
+      "y": 195,
+      "w": 310,
+      "h": 44
+    },
+    {
+      "id": "D1",
+      "label": "Direction Programme et Planification",
+      "x": 42,
+      "y": 294,
+      "w": 266,
+      "h": 58
+    },
+    {
+      "id": "D1-U1",
+      "label": "Santé Communautaire",
+      "x": 60,
+      "y": 371,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D1-U2",
+      "label": "SRMNEA/Nutrition & Maladies infectieuses",
+      "x": 60,
+      "y": 427,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D1-U3",
+      "label": "MNT",
+      "x": 60,
+      "y": 483,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D1-U4",
+      "label": "Santé Climat et environnement",
+      "x": 60,
+      "y": 539,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D1-U5",
+      "label": "Economie de la santé",
+      "x": 60,
+      "y": 595,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D2",
+      "label": "Direction SERA",
+      "x": 322,
+      "y": 294,
+      "w": 266,
+      "h": 58
+    },
+    {
+      "id": "D2-U1",
+      "label": "Evaluations & Recherche",
+      "x": 340,
+      "y": 371,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D2-U2",
+      "label": "Monitorage",
+      "x": 340,
+      "y": 427,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D2-U3",
+      "label": "Gestion & Analyse des données",
+      "x": 340,
+      "y": 483,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D2-U4",
+      "label": "Publications",
+      "x": 340,
+      "y": 539,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D2-U5",
+      "label": "Renforcement des Capacités",
+      "x": 340,
+      "y": 595,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3",
+      "label": "Direction Administration et Finance",
+      "x": 602,
+      "y": 294,
+      "w": 266,
+      "h": 58
+    },
+    {
+      "id": "D3-U1",
+      "label": "Finance",
+      "x": 620,
+      "y": 371,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3-U2",
+      "label": "Comptabilité",
+      "x": 620,
+      "y": 427,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3-U3",
+      "label": "Trésorerie",
+      "x": 620,
+      "y": 483,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3-U4",
+      "label": "Ressources Humaines",
+      "x": 620,
+      "y": 539,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3-U5",
+      "label": "Achat /Logistique",
+      "x": 620,
+      "y": 595,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D3-U6",
+      "label": "Chauffeur",
+      "x": 620,
+      "y": 651,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D4",
+      "label": "Direction Relations Extérieures",
+      "x": 882,
+      "y": 294,
+      "w": 266,
+      "h": 58
+    },
+    {
+      "id": "D4-U1",
+      "label": "Partenariats",
+      "x": 900,
+      "y": 371,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D4-U2",
+      "label": "Mob ressources",
+      "x": 900,
+      "y": 427,
+      "w": 248,
+      "h": 44
+    },
+    {
+      "id": "D4-U3",
+      "label": "Communication & Marketing",
+      "x": 900,
+      "y": 483,
+      "w": 248,
+      "h": 44
+    }
+  ],
+  "edges": [
+    [
+      "DG",
+      "D1"
+    ],
+    [
+      "D1",
+      "D1-U1"
+    ],
+    [
+      "D1",
+      "D1-U2"
+    ],
+    [
+      "D1",
+      "D1-U3"
+    ],
+    [
+      "D1",
+      "D1-U4"
+    ],
+    [
+      "D1",
+      "D1-U5"
+    ],
+    [
+      "DG",
+      "D2"
+    ],
+    [
+      "D2",
+      "D2-U1"
+    ],
+    [
+      "D2",
+      "D2-U2"
+    ],
+    [
+      "D2",
+      "D2-U3"
+    ],
+    [
+      "D2",
+      "D2-U4"
+    ],
+    [
+      "D2",
+      "D2-U5"
+    ],
+    [
+      "DG",
+      "D3"
+    ],
+    [
+      "D3",
+      "D3-U1"
+    ],
+    [
+      "D3",
+      "D3-U2"
+    ],
+    [
+      "D3",
+      "D3-U3"
+    ],
+    [
+      "D3",
+      "D3-U4"
+    ],
+    [
+      "D3",
+      "D3-U5"
+    ],
+    [
+      "D3",
+      "D3-U6"
+    ],
+    [
+      "DG",
+      "D4"
+    ],
+    [
+      "D4",
+      "D4-U1"
+    ],
+    [
+      "D4",
+      "D4-U2"
+    ],
+    [
+      "D4",
+      "D4-U3"
+    ],
+    [
+      "DG",
+      "IT"
+    ],
+    [
+      "DG",
+      "SEC"
+    ]
+  ],
+  "clarification": "Entités de même niveau sous chaque direction ; portrait et 01 conservés."
+}

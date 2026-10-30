@@ -1,0 +1,14 @@
+CONTRÔLE QUALITÉ — 30 octobre 2026
+Source : Organigramme vf.pdf, page 1.
+26 entités reprises et 25 rattachements représentés.
+Tous les intitulés comparés au texte extrait du PDF source ; retours à la ligne adaptés.
+Rattachements des 19 entités aux directions confirmés explicitement par le demandeur.
+Portrait et repère 01 conservés sur instruction explicite.
+Aucun nom de titulaire ou développement de sigle inventé.
+PDF A3 paysage vectoriel ouvert et rendu ; aperçu contrôlé visuellement.
+PNG généré à 300 ppp depuis le PDF final.
+Géométrie : aucun chevauchement entre blocs ; aucun bloc hors page.
+PowerPoint réouvert avec python-pptx : 1 diapositive, 98 objets ; blocs, textes, image et segments de connexion séparés et modifiables.
+Limite : rendu du PowerPoint non contrôlé dans Microsoft PowerPoint ou LibreOffice (non disponibles). Les segments sont modifiables mais ne se reroutent pas automatiquement lors d'un déplacement de bloc.
+Tableau de vérification : inventaire détaillé des entités et des liens, PDF et CSV UTF-8.
+Portrait repris de la source, sans amélioration artificielle de sa résolution.

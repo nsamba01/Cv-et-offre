@@ -1,0 +1,56 @@
+﻿Élément;Source / lecture confirmée;Nouvelle version;Statut;Observation
+Entité;Directeur Executif;Directeur Executif;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;IT;IT;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Secretariat de Direction;Secretariat de Direction;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Direction Programme et Planification;Direction Programme et Planification;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Santé Communautaire;Santé Communautaire;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;SRMNEA/Nutrition & Maladies infectieuses;SRMNEA/Nutrition & Maladies infectieuses;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;MNT;MNT;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Santé Climat et environnement;Santé Climat et environnement;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Economie de la santé;Economie de la santé;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Direction SERA;Direction SERA;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Evaluations & Recherche;Evaluations & Recherche;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Monitorage;Monitorage;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Gestion & Analyse des données;Gestion & Analyse des données;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Publications;Publications;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Renforcement des Capacités;Renforcement des Capacités;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Direction Administration et Finance;Direction Administration et Finance;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Finance;Finance;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Comptabilité;Comptabilité;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Trésorerie;Trésorerie;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Ressources Humaines;Ressources Humaines;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Achat /Logistique;Achat /Logistique;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Chauffeur;Chauffeur;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Direction Relations Extérieures;Direction Relations Extérieures;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Partenariats;Partenariats;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Mob ressources;Mob ressources;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Entité;Communication & Marketing;Communication & Marketing;Conforme;"Intitulé conservé ; retours à la ligne seuls adaptés."
+Rattachement;Directeur Executif → Direction Programme et Planification;Directeur Executif → Direction Programme et Planification;Conforme;Rattachement reproduit du document source.
+Rattachement;Direction Programme et Planification → Santé Communautaire;Direction Programme et Planification → Santé Communautaire;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Programme et Planification → SRMNEA/Nutrition & Maladies infectieuses;Direction Programme et Planification → SRMNEA/Nutrition & Maladies infectieuses;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Programme et Planification → MNT;Direction Programme et Planification → MNT;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Programme et Planification → Santé Climat et environnement;Direction Programme et Planification → Santé Climat et environnement;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Programme et Planification → Economie de la santé;Direction Programme et Planification → Economie de la santé;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Directeur Executif → Direction SERA;Directeur Executif → Direction SERA;Conforme;Rattachement reproduit du document source.
+Rattachement;Direction SERA → Evaluations & Recherche;Direction SERA → Evaluations & Recherche;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction SERA → Monitorage;Direction SERA → Monitorage;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction SERA → Gestion & Analyse des données;Direction SERA → Gestion & Analyse des données;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction SERA → Publications;Direction SERA → Publications;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction SERA → Renforcement des Capacités;Direction SERA → Renforcement des Capacités;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Directeur Executif → Direction Administration et Finance;Directeur Executif → Direction Administration et Finance;Conforme;Rattachement reproduit du document source.
+Rattachement;Direction Administration et Finance → Finance;Direction Administration et Finance → Finance;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Administration et Finance → Comptabilité;Direction Administration et Finance → Comptabilité;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Administration et Finance → Trésorerie;Direction Administration et Finance → Trésorerie;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Administration et Finance → Ressources Humaines;Direction Administration et Finance → Ressources Humaines;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Administration et Finance → Achat /Logistique;Direction Administration et Finance → Achat /Logistique;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Administration et Finance → Chauffeur;Direction Administration et Finance → Chauffeur;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Directeur Executif → Direction Relations Extérieures;Directeur Executif → Direction Relations Extérieures;Conforme;Rattachement reproduit du document source.
+Rattachement;Direction Relations Extérieures → Partenariats;Direction Relations Extérieures → Partenariats;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Relations Extérieures → Mob ressources;Direction Relations Extérieures → Mob ressources;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Direction Relations Extérieures → Communication & Marketing;Direction Relations Extérieures → Communication & Marketing;Conforme après clarification;"Rattachement direct confirmé par le demandeur ; tracé source en chaîne."
+Rattachement;Directeur Executif → IT;Directeur Executif → IT;Conforme;Rattachement reproduit du document source.
+Rattachement;Directeur Executif → Secretariat de Direction;Directeur Executif → Secretariat de Direction;Conforme;Rattachement reproduit du document source.
+Responsables et titulaires;Aucun nom indiqué;Aucun nom ajouté;Conforme;Le portrait ne permet pas d’attribuer un nom.
+Portrait et repère;"Portrait du Directeur Executif ; 01";"Portrait extrait ; 01 conservé";Conforme;Conservation expressément demandée.
+Relations fonctionnelles;Aucune relation explicitement qualifiée;Aucun lien fonctionnel inventé;Non attestées;"Absence de pointillés ; ne préjuge pas de l’organisation réelle."
+Gouvernance / contrôle / antennes;Aucun autre organe explicitement indiqué;Aucun ajout;Non attestés;Aucun développement inventé des sigles IT, SERA, MNT ou SRMNEA.
